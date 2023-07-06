@@ -1,0 +1,26 @@
+{
+  "name": "literal-customize",
+  "version": "0.0.1",
+  "description": "Customize of software, include document, dotfile, examples",
+  "main": "none",
+  "scripts": {
+    "doc:dev": "vuepress dev doc",
+    "doc:build": "vuepress build doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinsong/literal-customize.git"
+  },
+  "keywords": [
+    "doc"
+  ],
+  "author": "literal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sinsong/literal-customize/issues"
+  },
+  "homepage": "https://github.com/sinsong/literal-customize#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  }
+}

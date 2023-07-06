@@ -1,0 +1,4 @@
+# vuepress@next
+node_modules
+.temp
+.cache
